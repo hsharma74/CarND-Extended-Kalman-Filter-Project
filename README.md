@@ -1,4 +1,4 @@
-# Extended Kalman Filter Project Starter Code
+# Extended Kalman Filter Project 
 Self-Driving Car Engineer Nanodegree Program
 
 ---
@@ -27,9 +27,9 @@ Self-Driving Car Engineer Nanodegree Program
 
 
 
-![Radar estimate vs truth] (scripts/radar_est_vs_gt.jpg?raw=true "Radar Estimate vs. Truth")
-![Laser estimate vs truth] (scripts/laser_est_vs_gt.jpg?raw=true "Laser Estimate vs. Truth")
-![Combined estimate vs truth] (scripts/combined_est_vs_gt.jpg?raw=true "Combined Estimate vs. Truth")
+![Radar estimate vs truth] (scripts/radar_est_vs_gt.jpg)
+![Laser estimate vs truth] (scripts/laser_est_vs_gt.jpg)
+![Combined estimate vs truth] (scripts/combined_est_vs_gt.jpg)
 
 
 ## Misc.
